@@ -4,15 +4,17 @@
     <e p="C:\Projects\haptic-feedback" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="Example" t="Include">
-          <e p="Scripts" t="Include">
-            <e p="Example.cs" t="Include" />
+        <e p="iOSHapticFeedback" t="Include">
+          <e p="Example" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Example.cs" t="Include" />
+            </e>
           </e>
-        </e>
-        <e p="Scripts" t="Include">
-          <e p="Utils" t="Include">
-            <e p="Enums.cs" t="Include" />
-            <e p="HapticFeedbackGenerator.cs" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="Utils" t="Include">
+              <e p="Enums.cs" t="Include" />
+              <e p="HapticFeedbackGenerator.cs" t="Include" />
+            </e>
           </e>
         </e>
       </e>
